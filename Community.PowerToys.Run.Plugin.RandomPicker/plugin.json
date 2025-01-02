@@ -1,0 +1,14 @@
+{
+  "ID": "58698CC74ADD4BADA331759CB1D7168A",
+  "ActionKeyword": "rng",
+  "IsGlobal": false,
+  "Name": "RandomPicker",
+  "Author": "Heck-R",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Heck-R/PowerToys.Run.Plugin.RandomPicker",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.RandomPicker.dll",
+  "IcoPathDark": "Images\\dark\\main.png",
+  "IcoPathLight": "Images\\light\\main.png",
+  "DynamicLoading": false
+}
