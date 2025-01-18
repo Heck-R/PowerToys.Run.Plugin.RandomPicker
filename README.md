@@ -2,6 +2,25 @@
 
 A [PowerToys](https://github.com/microsoft/PowerToys) plugin to pick stuff randomly
 
+# Installation
+
+## Manual
+
+- Download the latest [release](https://github.com/Heck-R/PowerToys.Run.Plugin.RandomPicker/releases)
+- Unzip the contents into the PowerToys Plugin folder  \
+  Usual locations include:
+  - `C:\Program Files\PowerToys\PowerToys.exe`
+  - `%LOCALAPPDATA%\Microsoft\PowerToys\PowerToys Run\Plugins`
+- Restart PowerToys
+
+## Automatic
+
+Use [ptr](https://github.com/8LWXpg/ptr), which is a nice plugin manager CLI tool
+
+```
+ptr add RandomPicker Heck-R/PowerToys.Run.Plugin.RandomPicker
+```
+
 # Features
 
 There are 3 major sections
